@@ -14,4 +14,4 @@
 <p>&nbsp &nbsp &nbsp &nbsp As a result, the people who wants to work with data as well examining it, should use the libraries that are Numpy, Pandas and Matplotlib for their projects. Thus, They will be able to deal with big data in matrices using Numpy, examine their data with using Pandas which makes it like a table and visualize their data to make it more understandable. These are why they are used by Data Scientist, Data Analyst or Data Engineer so on.</p>
 
 
-&nbsp &nbsp &nbsp &nbsp This text is written by Kadir Tuna and is a blog about "Why numpy, pandas and matplotlib libraries in Python are so important" for Patika.Dev Website.
+<p> &nbsp &nbsp &nbsp &nbsp This text is written by Kadir Tuna and is a blog about "Why numpy, pandas and matplotlib libraries in Python are so important" for Patika.Dev Website. </p>
