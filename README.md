@@ -13,7 +13,7 @@ This text is a blog about "Why numpy, pandas and matplotlib libraries in Python 
 
 <p> We may not sometimes aware what is the meaning of my data? What does my data have a relation in itself? How does it acts for some limit? Therefore, if we can't just think the data in text format or if we only want to visualize it, we can directly use a visualizator that is matplotlib in Python. It makes a person think with visual appearence. Therefore, matplotlib is used for seeing the direction, acts, limitations of the data so on. </p> 
 
-<p< As a result, the people who wants to work with data as well examining it, should use the libraries that are Numpy, Pandas and Matplotlib for their projects. Thus, They will be able to deal with big data in matrices using Numpy, examine their data with using Pandas which makes it like a table and visualize their data to make it more understandable. These are why they are used by Data Scientist, Data Analyst or Data Engineer so on.</p>
+<p> As a result, the people who wants to work with data as well examining it, should use the libraries that are Numpy, Pandas and Matplotlib for their projects. Thus, They will be able to deal with big data in matrices using Numpy, examine their data with using Pandas which makes it like a table and visualize their data to make it more understandable. These are why they are used by Data Scientist, Data Analyst or Data Engineer so on.</p>
 
 
 
